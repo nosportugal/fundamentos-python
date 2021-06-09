@@ -14,4 +14,4 @@ def send_message(text, chat_id):
 
 
 if __name__ == "__main__":
-    send_message("Olá")
+    send_message("Olá", 123)
